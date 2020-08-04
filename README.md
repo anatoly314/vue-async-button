@@ -1,6 +1,6 @@
 # Vue Async Button
 
-Following example of this article: https://medium.com/@dobromir_hristov/reacting-to-promises-from-event-listeners-in-vue-js-8959b6d03f52
+I imported this example from this article: https://medium.com/@dobromir_hristov/reacting-to-promises-from-event-listeners-in-vue-js-8959b6d03f52
 
 # test-project
 
